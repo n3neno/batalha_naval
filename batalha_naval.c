@@ -12,7 +12,7 @@ typedef struct {
     int tam;
     int qntd_embarcacao;
 }config;
-
+// funçoes
 int turno_jogador(int **campo_computador, int tam) {
     printf("Sua vez de atacar(3 Tiros)\n");
 
